@@ -1,0 +1,9 @@
+
+.logo-img {
+    width: 50%;
+}
+
+.logo-img > img {
+    height: 300px;
+    float: right;
+}
